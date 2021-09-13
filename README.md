@@ -1,2 +1,3 @@
 # Shallow-Pooling-for-Sparse-labels
-crowdsourced judgement data for shallow pooling for sparse labels paper
+Here you can find the judged data for first experiment in (Shallow pooling for sparse labels
+)[https://arxiv.org/abs/2109.00062]
