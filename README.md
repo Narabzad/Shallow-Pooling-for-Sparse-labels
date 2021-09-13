@@ -4,9 +4,11 @@ Here you can find the crowdsourced judged data for first experiment in [Shallow 
 
 For more details please check out section 3 of the paper.
 
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/43349991/133142682-61f43445-d804-4d68-b280-ec3ffd759cc2.png" width="400" height="500" align="center"/>
-Data is given in the TSV format in [shallow_pooling_exp_1.tsv](https://github.com/Narabzad/Shallow-Pooling-for-Sparse-labels/blob/main/shallow_pooling_exp_1.tsv) for all 6980 queries in small dev set of msmarco and includes the following:
+</p>
+
+  Data is given in the TSV format in [shallow_pooling_exp_1.tsv](https://github.com/Narabzad/Shallow-Pooling-for-Sparse-labels/blob/main/shallow_pooling_exp_1.tsv) for all 6980 queries in small dev set of msmarco and includes the following:
 - query id
 - query text
 - Category ( A: when first ranked document from the selected run is qrel. B: When the first ranked document is not qrel)
