@@ -8,3 +8,9 @@ For more details please check out section 3 of the paper.
 Data is given in the following format in [shallow-exp1.tsv]() for all 6980 queries in small dev set of msmarco
 - query id
 - query text
+- Category ( A: when first ranked document from the selected run is qrel. B: When the first ranked document is not qrel)
+- Prefrence (whether the judge prefered the qrel or the alternative document)
+- qrel id
+- qrel text
+- alternative document id
+- alternative document text
